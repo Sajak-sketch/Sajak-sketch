@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Cybersecurity | AI/ML | Software Development
 
-I'm a first-year Bachelor's student at Saim College, currently building my foundation in programming and exploring cybersecurity, artificial intelligence, and machine learning.
+I'm a first-year Bachelor's student, currently building my foundation in programming and exploring cybersecurity, artificial intelligence, and machine learning.
 
 ## 🛠️ Currently Learning
 
